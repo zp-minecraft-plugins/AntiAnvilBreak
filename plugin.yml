@@ -1,0 +1,5 @@
+author: Zack Pollard
+description: A simple anti anvil break plugin for Minecraft.
+main: pro.zackpollard.antianvilbreak.AntiAnvilBreak
+name: AntiAnvilBreak
+version: 1.0
